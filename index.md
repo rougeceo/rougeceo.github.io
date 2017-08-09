@@ -1,5 +1,3 @@
-## Rouge CEO
-
 Welcome to my website. I offer web development services in exchange for bitcoin, ethereum, dash and litecoin at the moment.
 
 If you would like to get in touch with me please send an email to rougeceo@yandex.com
